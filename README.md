@@ -6,7 +6,7 @@ Tampermonkey 油猴脚本合集，收集各站点每日自动签到脚本。
 
 | 脚本 | 目标站点 | 说明 |
 |------|---------|------|
-| [CheckinMan-zhutix.user.js](../../raw/main/CheckinMan-zhutix.user.js) | 致美化 | 每天自动签到，获取锋币 |
+| [CheckinMan-zhutix.user.js](https://raw.githubusercontent.com/Cairl/CheckinMan/main/CheckinMan-zhutix.user.js) | 致美化 | 每天自动签到，获取锋币 |
 
 ## 安装
 

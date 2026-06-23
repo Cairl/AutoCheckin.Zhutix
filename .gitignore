@@ -9,3 +9,5 @@ build/
 *.spec
 venv/
 run_sync.bat
+
+changelog.md
